@@ -1,4 +1,4 @@
-### Olá, meu nome é Thales 👋
+### Olá, meu nome é Thales 👋 :clown: :zap: ta-em-chok kk :zap: :clown: 🤡⚡ KK Tá Em ShOcK KK??? 🤡⚡
 
 
 
