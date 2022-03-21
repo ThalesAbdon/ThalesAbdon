@@ -1,6 +1,4 @@
 ### Olá, meu nome é Thales 👋 
-### 🤡⚡ KK Tá Em ShOcK KK??? 🤡⚡
-
 
 - 💻 Atualmente estudando Javascript
 - 👨🏻‍💻 Focado em Back-end
