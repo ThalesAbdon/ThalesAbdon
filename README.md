@@ -1,5 +1,5 @@
-### Olá, meu nome é Thales 👋 :clown: :zap: ta-em-chok kk :zap: :clown: 🤡⚡ KK Tá Em ShOcK KK??? 🤡⚡
-
+### Olá, meu nome é Thales 👋 
+### 🤡⚡ KK Tá Em ShOcK KK??? 🤡⚡
 
 
 - 💻 Atualmente estudando Javascript
