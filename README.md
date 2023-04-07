@@ -1,6 +1,6 @@
 ### Olá, meu nome é Thales 👋 
 
-- 💻 Atualmente estudando Javascript
+- 💻 Back-end Developer at Voltz
 - 👨🏻‍💻 Focado em Back-end
 - 🎮 twitch.tv/LawKaizoku
 
