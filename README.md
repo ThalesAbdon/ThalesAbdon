@@ -2,7 +2,6 @@
 
 - 💻 Estudando Typescript
 - 👨🏻‍💻 Focado em Back-end
-- 🎮 twitch.tv/LawKaizoku
 
 ##
 <div>
