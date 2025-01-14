@@ -24,7 +24,8 @@
 <img align="center" alt="Thales-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="Thales-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" alt="Thales-Js" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" alt="Thales-Js" height="80" width="80" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
+<img align="center" alt="Thales-Js" height="80" width="80" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+<img align="center" alt="Thales-Js" height="80" width="80" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
 </div>
   
 ##
