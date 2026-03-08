@@ -12,7 +12,7 @@ Backend Software Engineer focused on scalable distributed systems and high-perfo
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,nestjs,express,graphql,react,nextjs,angular,docker,kubernetes,aws,gcp,postgres,mongodb,redis,rabbitmq"/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,nestjs,express,graphql,react,nextjs,angular,html,css,tailwind,docker,kubernetes,aws,gcp,postgres,mongodb,redis,rabbitmq"/>
 
 ## 🧩 CMS
 
