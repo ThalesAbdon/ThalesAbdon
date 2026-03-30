@@ -1,10 +1,13 @@
 ### Hi, I'm Thales 👋
 
-Backend Software Engineer focused on scalable distributed systems and high-performance APIs.
+Senior Software Engineer focused on scalable distributed systems, event-driven architecture, and high-performance backend APIs.
+Strong experience designing resilient microservices and modernizing legacy platforms in cloud environments.
 
-- 💻 Backend: Node.js, TypeScript, Python
-- ⚙️ Architecture: Microservices, Event-Driven Systems, Distributed Systems
+- 💻 Backend: Node.js, TypeScript, Python, NestJS, Express, GraphQL
+- ⚙️ Architecture: Microservices, Event-Driven Systems, Distributed Systems, REST & Async APIs
 - ☁️ Cloud & DevOps: AWS, GCP, Docker, Kubernetes
+- 🗄 Data & Messaging: PostgreSQL, MongoDB, Redis, RabbitMQ
+- 🎨 Frontend: HTML, CSS, Angular, React, Next.js
 
 ## 📊 GitHub Activity
 
